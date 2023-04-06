@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+.nav1{
+    width: 100%;
+    height: 7vh;
+    background-color: rgba(0,0 ,0 ,0.7 );
+    position: fixed;
+}
+.bar1{
+    width: 65%;
+    height: 100%;
+    margin: 0 auto;
+}
+.Start1{
+    display: inline-block;
+    padding-top: 1.9vh;
+}
+.text-none{
+    text-decoration: none;
+}
+.text-white{
+    color: white;
+}
+.ul1{
+    float: right;
+    list-style: none;
+    padding-top: 2.6vh;
+}
+.li1{
+    list-style: none;
+    float: right;
+    margin-right: 1.3rem;
+    display: inline-block;
+}
+.rgb{
+    width: 100%;
+    height: 95vh;
+    background: linear-gradient(90deg,#fd5b13,#f01767);
+    text-align: center;
+    padding-top: 15vh;
+    font-size: 3rem;
+}
+.btn1{
+    background-color: #ee0979;
+    border-radius: 2.5rem;
+    width: 14%;
+    margin-top: 9vh;
+    height: 4.2rem;
+    border: none;
+    cursor: pointer;
+}
+.sctn1{
+    width:auto;
+    height: auto; 
+
+}
+.div1{
+    width: 27%;
+    height: 34vh;
+    margin: 0 auto;
+    text-align: justify;
+    float: left;
+    padding-top: 5rem;
+    margin-left: 21rem;
+    font-size: 1.18rem;
+}
+
+.img1{
+    width: 27%;
+    height: 54vh;
+    margin-right: 21rem;
+    float: right;
+    border-radius: 18.75rem;
+    margin-top: 0.6rem;
+}
+.div2{
+    width: 27%;
+    height: 34vh;
+    margin: 0 auto;
+    text-align: justify;
+    float: right;
+    margin-top: -20.75rem;
+    margin-right: 21rem;
+}
+.img2{
+    width: 27%;
+    height: 54vh;
+    border-radius: 37.5rem;
+    margin-left: 21rem;
+    margin-top: 25rem;
+}
+.div3{
+    width: 27%;
+    height: 34vh;
+    margin: 0 auto;
+    text-align: justify;
+    float: left;
+    margin-top: -20.75rem;
+    padding-top: 50rem;
+    margin-left: 21rem;
+}
+.img3{
+    width: 27%;
+    height: 54vh;
+    border-radius: 37.5rem;
+    margin-left: 12rem;
+    margin-top: 20rem;
+}
+.foot{
+    width: 100%;
+    height: 13vh;
+    background-color: black;
+    padding: 3.2% 42%;
+}
