@@ -35,6 +35,7 @@
     float: right;
     margin-right: 1.3rem;
     display: inline-block;
+    opacity: 0.5;
 }
 .rgb{
     width: 100%;
